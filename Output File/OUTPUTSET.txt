@@ -1,0 +1,338 @@
+
+             *                      *  *
+  *     *               *   * *     *     *
+               *            *          *
+*    *   *            MYSTIC MAYHEM      *
+              *      *                *
+        *        * *    *     *
+ *       *  * *               * *   *
+           *   *         *
+      *                *
+ *                       *  *
+       *     *            *
+Creating player profile...
+Enter your name: 
+Enter your desired username: 
+Your user ID is: 10056
+Select Home groud
+ Hillcrest, Marshland, Desert, and Arcane
+Enter the name of home ground:
+Profile created successfully!
+Your user ID: 10056
+Choose your army:
+Buy one character from Archers
+1. Shooter - Price: 80
+2. Ranger - Price: 115
+3. Sunfire - Price: 160
+4. Zing - Price: 200
+5. Saggitarius - Price: 230
+Buy one character from Knights
+6. Squire - Price: 85
+7. Swiftblade - Price: 250
+8. Cavalier - Price: 110
+9. Templar - Price: 155
+10. Zoro - Price: 180
+Buy one character from Mages
+11. Warlock - Price: 100
+12. Illusionist - Price: 120
+13. Enchanter - Price: 160
+14. Conjurer - Price: 195
+15. Eldritch - Price: 270
+Buy one character from Healers
+16. Soother - Price: 95
+17. Medic - Price: 125
+18. Saint - Price: 200
+19. Medusa - Price: 165
+20. Oracle - Price: 185
+Buy one character from Mythical Creatures
+21. Dragon - Price: 120
+22. Basilisk - Price: 165
+23. Phoenix - Price: 275
+24. Pegasus - Price: 340
+25. Hydra - Price: 205
+There should be five members in your army
+
+You have to buy exactly one character from each category!
+
+Enter the numbers of characters you want to add to your army (separated by spaces): 
+Character Shooter bought successfully!
+Existing amount of gold coins: 420
+Character Squire bought successfully!
+Existing amount of gold coins: 335
+Character Warlock bought successfully!
+Existing amount of gold coins: 235
+Character Soother bought successfully!
+Existing amount of gold coins: 140
+Character Dragon bought successfully!
+Existing amount of gold coins: 20
+Your balance is insufficient to buy equipment!
+Searching for opponents...
+Opponent: Ravi
+XP Level: 78
+Do you want to challenge Ravi to battle? (Y/N)
+Searching for opponents...
+Opponent: John
+XP Level: 34
+Do you want to challenge John to battle? (Y/N)
+Searching for opponents...
+Opponent: Gatheesh
+XP Level: 46
+Do you want to challenge Gatheesh to battle? (Y/N)
+Searching for opponents...
+Opponent: whitewolf
+XP Level: 32
+Do you want to challenge whitewolf to battle? (Y/N)
+Battle begins at Marshland!
+Ganeshan vs. GeraltofRivia
+Turn 1: Ganeshan
+Mage attacks Mage.
+Mage's health: 4.7
+Mage's health: 10.0
+Archer attacks Archer.
+Archer's health: 3.0
+Archer's health: 6.0
+Knight attacks Knight.
+Knight's health: 3.9
+Knight's health: 7.0
+Mythical Creature attacks Mythical Creature.
+Mythical Creature's health: 10.4
+Mythical Creature's health: 15.0
+Healer attacks Healer.
+Healer's health: 5.9
+Healer's health: 9.0
+Turn 2: GeraltofRivia
+Mage attacks Mage.
+Mage's health: 4.7
+Mage's health: 4.7
+Archer attacks Archer.
+Archer's health: -0.6
+Archer's health: 3.0
+Archer died!
+Knight attacks Knight.
+Knight's health: 3.9
+Knight's health: 3.9
+Mythical Creature attacks Mythical Creature.
+Mythical Creature's health: 10.4
+Mythical Creature's health: 10.4
+Healer attacks Healer.
+Healer's health: 3.8
+Healer's health: 5.9
+Turn 3: Ganeshan
+Mage attacks Mage.
+Mage's health: -0.6
+Mage's health: 4.7
+Mage died!
+Knight attacks Archer.
+Archer's health: -0.5
+Knight's health: 3.9
+Archer died!
+Mythical Creature attacks Knight.
+Knight's health: -1.2
+Mythical Creature's health: 10.4
+Knight died!
+Healer attacks Mythical Creature.
+Mythical Creature's health: 6.8
+Healer's health: 3.8
+Turn 4: GeraltofRivia
+Mythical Creature attacks Mage.
+Mage's health: -0.6
+Mythical Creature's health: 6.8
+Mage died!
+Healer attacks Knight.
+Knight's health: -1.2
+Healer's health: 5.9
+Knight died!
+Turn 5: Ganeshan
+Mythical Creature attacks Mythical Creature.
+Mythical Creature's health: 2.2
+Mythical Creature's health: 10.4
+Healer attacks Healer.
+Healer's health: 1.8
+Healer's health: 3.8
+Turn 6: GeraltofRivia
+Mythical Creature attacks Mythical Creature.
+Mythical Creature's health: 5.8
+Mythical Creature's health: 2.2
+Healer attacks Healer.
+Healer's health: -1.4
+Healer's health: 1.8
+Healer died!
+Turn 7: Ganeshan
+Mythical Creature attacks Mythical Creature.
+Mythical Creature's health: -2.4
+Mythical Creature's health: 5.8
+Mythical Creature died!
+Turn 8: GeraltofRivia
+Healer attacks Mythical Creature.
+Mythical Creature's health: 1.2
+Healer's health: 1.8
+Turn 9: Ganeshan
+Mythical Creature attacks Healer.
+Healer's health: -3.3
+Mythical Creature's health: 1.2
+Healer died!
+Turn 10: GeraltofRivia
+Ganeshan won!
+Ganeshan XP: 1, gold coins: 41
+GeraltofRivia XP: 32, gold coins: 194
+Do you want to play another round? (yes/no): 
+Do you want to buy new characters or equipment? (yes/no)
+Do you want to sell your characters? (yes/no)
+Searching for opponents...
+Opponent: Ravi
+XP Level: 78
+Do you want to challenge Ravi to battle? (Y/N)
+Searching for opponents...
+Opponent: Ravi
+XP Level: 78
+Do you want to challenge Ravi to battle? (Y/N)
+Searching for opponents...
+Opponent: Satheesha
+XP Level: 58
+Do you want to challenge Satheesha to battle? (Y/N)
+Searching for opponents...
+Opponent: John
+XP Level: 34
+Do you want to challenge John to battle? (Y/N)
+Searching for opponents...
+Opponent: John
+XP Level: 34
+Do you want to challenge John to battle? (Y/N)
+Searching for opponents...
+Opponent: whitewolf
+XP Level: 32
+Do you want to challenge whitewolf to battle? (Y/N)
+Battle begins at Marshland!
+Ganeshan vs. GeraltofRivia
+Turn 1: Ganeshan
+Mage attacks Mage.
+Mage's health: -5.9
+Mage's health: -0.6
+Mage died!
+Archer attacks Archer.
+Archer's health: -5.5
+Archer's health: -0.6
+Archer died!
+Knight attacks Knight.
+Knight's health: -4.3
+Knight's health: -1.2
+Knight died!
+Mythical Creature attacks Mythical Creature.
+Mythical Creature's health: -7.0
+Mythical Creature's health: 1.2
+Mythical Creature died!
+Healer attacks Healer.
+Healer's health: -7.4
+Healer's health: -1.4
+Healer died!
+Turn 2: GeraltofRivia
+Ganeshan won!
+Ganeshan XP: 2, gold coins: 60
+GeraltofRivia XP: 32, gold coins: 175
+Do you want to play another round? (yes/no): 
+Do you want to buy new characters or equipment? (yes/no)
+Do you want to sell your characters? (yes/no)
+Searching for opponents...
+Opponent: whitewolf
+XP Level: 32
+Do you want to challenge whitewolf to battle? (Y/N)
+Battle begins at Marshland!
+Ganeshan vs. GeraltofRivia
+Turn 1: Ganeshan
+Mage attacks Mage.
+Mage's health: -11.2
+Mage's health: -0.6
+Mage died!
+Archer attacks Archer.
+Archer's health: -10.5
+Archer's health: -0.6
+Archer died!
+Knight attacks Knight.
+Knight's health: -7.4
+Knight's health: -1.2
+Knight died!
+Mythical Creature attacks Mythical Creature.
+Mythical Creature's health: -11.6
+Mythical Creature's health: 1.2
+Mythical Creature died!
+Healer attacks Healer.
+Healer's health: -11.5
+Healer's health: -1.4
+Healer died!
+Turn 2: GeraltofRivia
+Ganeshan won!
+Ganeshan XP: 3, gold coins: 77
+GeraltofRivia XP: 32, gold coins: 158
+Do you want to play another round? (yes/no): 
+Do you want to buy new characters or equipment? (yes/no)
+Do you want to buy new characters or equipment? (characters/equipment)
+Enter the name of the character you want to buy equipment for: 
+You can buy exactly one equipment from each category for the character: Archer
+Choose equipment:
+Buy equipment from Armour
+1-Chainmail - Price: 70
+Buy equipment from Artefact
+2-Excalibur - Price: 150
+Buy equipment from Armour
+3-Regalia - Price: 105
+Buy equipment from Artefact
+4-Amulet - Price: 200
+Buy equipment from Armour
+5-Fleece - Price: 150
+Buy equipment from Artefact
+6-Crystal - Price: 210
+Enter the number of the equipment you want to add to your inventory: 
+Equipment Chainmail bought successfully for Archer
+Do you want to sell your characters? (yes/no)
+Searching for opponents...
+Opponent: Ravi
+XP Level: 78
+Do you want to challenge Ravi to battle? (Y/N)
+Battle begins at Marshland!
+Ganeshan vs. Ravi
+Turn 1: Ganeshan
+Mage attacks Archer.
+Archer's health: 2.8
+Mage's health: -0.6
+Archer attacks Mage.
+Mage's health: 2.7
+Archer's health: -0.6
+Knight attacks Healer.
+Healer's health: 13.4
+Knight's health: -1.2
+Mythical Creature attacks Mythical Creature.
+Mythical Creature's health: 9.2
+Mythical Creature's health: 1.2
+Turn 2: Ravi
+Archer attacks Mage.
+Mage's health: -5.9
+Archer's health: 2.8
+Mage died!
+Mage attacks Archer.
+Archer's health: -5.1
+Mage's health: 2.7
+Archer died!
+Healer attacks Knight.
+Knight's health: -7.8
+Healer's health: 13.4
+Knight died!
+Mythical Creature attacks Mythical Creature.
+Mythical Creature's health: -4.9
+Mythical Creature's health: 9.2
+Mythical Creature died!
+Turn 3: Ganeshan
+Healer attacks Archer.
+Archer's health: -0.4
+Healer's health: -1.4
+Archer died!
+Turn 4: Ravi
+Mage attacks Healer.
+Healer's health: -5.6
+Mage's health: 2.7
+Healer died!
+Turn 5: Ganeshan
+Ravi won!
+Ravi XP: 79, gold coins: 80
+Ganeshan XP: 3, gold coins: 7
+Do you want to play another round? (yes/no): 
+Game Over! 
